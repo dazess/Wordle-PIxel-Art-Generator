@@ -1,4 +1,4 @@
-# Wordle-PIxel-Art-Generator
+# Wordle-Shape-Generator
 
 How to use:
 
